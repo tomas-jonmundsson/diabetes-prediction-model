@@ -12,8 +12,8 @@ A machine learning model trained on quantitative clinical datasets to predict di
 - Performance evaluation using classification metrics
 
 ## Repository Contents
-- 💻 `diabetes_prediction.ipynb` — Python notebook (Google Colab)
-- 🎥 `diabetes_prediction_presentation.mp4` — Project presentation video
+- `diabetes_prediction.ipynb` — Python notebook (Google Colab)
+- `diabetes_prediction_presentation.mp4` — Project presentation video
   
 ## Note on Data
 Clinical datasets are not included in this repository due to privacy and file size constraints.
