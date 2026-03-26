@@ -3,7 +3,7 @@
 **Biomedical Engineering | University of Sydney | 2025**
 
 ## Overview
-A machine learning model trained on quantitative clinical datasets to predict diabetes diagnosis, applying data analysis and model evaluation techniques.
+A machine learning model trained on quantitative clinical datasets to predict diabetes diagnosis in older vs younger population groups, applying data analysis and model evaluation techniques.
 
 ## Technical Approach
 - Clinical dataset acquisition and preprocessing
